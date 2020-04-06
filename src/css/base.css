@@ -1,0 +1,28 @@
+.commonwidth{
+    width: 500px;
+}
+.authorwidth{
+    width: 220px;
+}
+.deploytext{
+    widows: 1000px;
+}
+.password{
+    width: 300px;
+}
+.demo-drawer__footer {
+    display: flex;
+}
+.register{
+    width: 290px;
+}
+.small-size{
+    width: 210px;
+}
+.icon-warp{
+    font-size: 30px;
+    color: lightskyblue;
+}
+.width300{
+    width: 300px;
+}
